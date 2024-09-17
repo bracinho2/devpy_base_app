@@ -1,16 +1,11 @@
-# devpy_base_app
+# BaseApp
 
-A new Flutter project.
+Estrutura básica de um app com flavors;
+Este projeto contempla as flavors: "dev"e "prod";
 
-## Getting Started
+## Alterações
 
-This project is a starting point for a Flutter application.
+- Faça uma busca por "FLAVORS" para alterar as configurações básicas com as informações do seu App;
 
-A few resources to get you started if this is your first Flutter project:
+- Não esqueça de alterar em "assets/icons" com os arquivos em "png";
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
